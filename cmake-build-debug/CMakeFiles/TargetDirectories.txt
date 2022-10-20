@@ -1,0 +1,3 @@
+C:/Users/fedor/CLionProjects/smb/cmake-build-debug/CMakeFiles/smb.dir
+C:/Users/fedor/CLionProjects/smb/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fedor/CLionProjects/smb/cmake-build-debug/CMakeFiles/rebuild_cache.dir
